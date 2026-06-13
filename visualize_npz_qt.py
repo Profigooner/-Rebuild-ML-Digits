@@ -1,3 +1,8 @@
+"""Legacy PyQt5 NPZ viewer retained for reference.
+
+Use ``python -m src.app`` for the supported PyQt6 digit recognizer.
+"""
+
 import os
 import sys
 

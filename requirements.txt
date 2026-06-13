@@ -1,0 +1,7 @@
+numpy>=1.26
+Pillow>=10.0
+PyQt6>=6.6
+torch>=2.3
+torchvision>=0.18
+pytest>=8.0
+

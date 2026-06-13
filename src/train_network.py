@@ -1,3 +1,8 @@
+"""Legacy untrained NumPy MLP retained for reference.
+
+Use ``python -m src.train_cnn`` for the supported PyTorch CNN trainer.
+"""
+
 import json
 import numpy as np
 def sigmoid(x):
